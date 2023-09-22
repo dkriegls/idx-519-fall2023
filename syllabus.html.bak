@@ -18,7 +18,7 @@
 <body>
 <div id="page">
   <header id="header">
-    <h1><small>IDX 519&#x3a; <!--UPDATE-->Spring 2023</small> Fundamentals&nbsp;of Web Development</h1>
+    <h1><small>IDX 519&#x3a; <!--UPDATE-->Fall 2023</small> Fundamentals&nbsp;of Web Development</h1>
     <p class="tagline">
       This class covers the foundational principles of web development. How to research client-server
       architecture according to current open standards. Taught by
@@ -107,8 +107,8 @@
           <h3 id="location">Lecture Days, Time, &amp; Place</h3>
         </div>
         <div class="height-fix">
-          <p><!--UPDATE-->Tuesdays 2:00pm to 5:00pm</p>
-          <p>Ed Kaplan Family Institute, Room 227</p>
+          <p><!--UPDATE-->Friday 2:00pm to 5:00pm</p>
+          <p>Ed Kaplan Family Institute, Room 226</p>
           <p>Or online via Blackboard's Collaborate Ultra</p>
         </div>
         <div class="boxheader">
@@ -168,11 +168,11 @@
         </div>
         <div class="height-fix">
           <ul>
-            <li>An email account and personal computer</li>
-            <li>A browser or cloud-based bookmarking scheme to aid your information management</li>
+            <li>An email account.</li>
+            <li>A browser-based or cloud-based bookmarking scheme to aid your information management.</li>
             <li>
-              A Basecamp account (invite will be sent to your IIT email); Basecamp, not Blackboard, will be
-              where we coordinate our work and communication in- and outside of class.
+              A Basecamp account (invite will be sent to your IIT email). Be aware that Basecamp and 
+              Blackboard are two different tools. Access to both are neccessary.
             </li>
             <li>
               A <a href="https://github.com/">GitHub</a> account.
@@ -184,10 +184,9 @@
                   A plain-text editor capable of syntax highlighting. Recommended: Notepad++ (Windows),
                   TextWrangler (mac), or Sublime Text (multi-platform).
                 </li>
-                <li>Git or GitHub Desktop</li>
-                <li>Node.js</li>
+                <li>GitHub Desktop (or Git if you are already proficient)</li>
                 <li>Image-editing software (such as the free and open-source GIMP)</li>
-                <li>At least three different browsers (e.g., Chrome, Opera, Firefox, or Edge)
+                <li>At least three different browsers (e.g., Chrome, Opera, Firefox, and/or Edge)
                 </li>
               </ul>
             </li>
@@ -219,7 +218,7 @@
           <h3 id="websites">Course Web Site</h3>
         </div>
         <div class="height-fix">
-          <!--UPDATE--><p>https://dkriegls.github.io/idx-519-spring2023/</p>
+          <!--UPDATE--><p>https://dkriegls.github.io/idx-519-fall2023/</p>
         </div>
         <div class="boxheader">
           <h3 id="blackboard">Blackboard</h3>
