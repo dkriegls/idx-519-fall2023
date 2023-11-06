@@ -77,15 +77,15 @@
           <p>At the conclusion of this course, successful students will be able to:</p>
           <ul>
             <li>
-              Explain the client and server architecture of the internet and related web
+              Explain the client and server architecture of both the internet and related web
               technologies.
             </li>
             <li>
-              Use a basic text editor and other software tools to create web pages using HTML, CSS,
-              JavaScript, jQuery, and Foundation.
+              Use a basic text editor and other software tools to create web pages written in HTML, CSS, JavaScript, 
+              and jQuery.
             </li>
             <li>
-              Deploy web pages to a Gethub using version control.
+              Deploy web pages to a Gethub using version control and Github Desktop.
             </li>
             <li>
               Understand the history and track the ongoing development of web standard specifications
